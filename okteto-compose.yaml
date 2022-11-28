@@ -5,7 +5,7 @@ version: "3.10"
         environment:
           - APP_ID=${APP_ID}
           - API_HASH=${API_HASH}
-          - SESSION =${SESSION }
+          - SESSION =${SESSION}
           - FROM_=${FROM_}
           - TO_=${TO_}
     
